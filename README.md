@@ -1,4 +1,4 @@
-# 🛡️ Nexus Sentinel(NammaFlow-AI) — Real-Time Weapon Detection & Surveillance System
+# 🛡️ Nexus Sentinel — Real-Time Weapon Detection & Surveillance System
 
 Nexus Sentinel is an AI-powered, edge-ready security surveillance system designed to detect weapons and identify personnel in real-time. Built on top of the state-of-the-art **YOLOv8** object detection framework, it leverages a custom-trained dataset of over **14,000+ images** to classify targets, trigger instant multi-threaded audio alerts, and help security personnel monitor environments efficiently.
 
